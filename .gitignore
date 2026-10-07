@@ -219,3 +219,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .venv/
+
+## for the project
+.venv/
+__pycache__/
+*.log
+!generated/*.log
+oracle_errors.csv
+oracle_dashboard.html
+reports/
